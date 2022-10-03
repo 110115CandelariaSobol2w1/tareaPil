@@ -1,3 +1,132 @@
 .navbar{
-    background-color: green;
+    background-color:  #3c9f6c  ;
+}
+
+.covid{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 50px 30px 50px 30px;
+}
+
+.titulo{
+    margin: 30px;
+    text-align: center;
+    
+}
+
+#titulo{
+    text-align: center;
+}
+
+.textoRojo{
+    color: red;
+    width: 600px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#enlace{
+    text-decoration: underline;
+    margin-bottom: 100px;
+}
+
+p{
+    text-align: center;
+}
+
+.fecha{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+    margin: 0;
+    padding: 0;
+}
+
+.pais{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.mayuscula{
+    font-style: italic;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+
+.concert:hover{
+background-color: aquamarine;
+}
+
+.carousel{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: auto;
+}
+
+.carousel-control-next-icon:hover{
+    background-color: aqua;
+}
+
+.carousel-control-prev-icon:hover{
+    background-color: aqua;
+}
+
+#cd{
+    color: #3c9f6c;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+#divCentrado{
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+iframe{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.footer{
+    background-color: #3c9f6c;
+    height: 100px;
+}
+
+.iconoRedes {
+    height: 30px;
+    font-weight: 30px;
+    margin: 5px;
+    margin-top: 30px;
+}
+
+.divCentrado{
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+#webFooter{
+    text-decoration: underline;
+    margin-top: 30px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    color: black;
+}
+
+#justinFooter{
+    margin-top: 30px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
 }
